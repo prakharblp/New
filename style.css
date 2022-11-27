@@ -1,0 +1,34 @@
+body
+{
+    margin: 0;
+    background-color: #f0ffff;
+}
+div
+{
+    padding: 20px;
+    margin: 20px;
+}
+.default
+{
+    background-color: #f5f5dc;
+}
+.none
+{
+    background-color: #00ffff;
+}
+.default h1
+{
+    color: #7fffd4;
+}
+.default p
+{
+    color: #dda0dd;
+}
+.none h1
+{
+    color: #ffd700;
+}
+.none p
+{
+    color: #c0c0c0;
+}
